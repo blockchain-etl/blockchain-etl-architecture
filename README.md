@@ -40,5 +40,6 @@
     - Parsing Ethereum smart contract data: https://towardsdatascience.com/how-to-get-any-ethereum-smart-contract-into-bigquery-in-8-mins-bab5db1fdeee.
     - Blockchain analytics in BigQuery: https://github.com/blockchain-etl/awesome-bigquery-views.
     - Clustering Ethereum addresses: https://towardsdatascience.com/clustering-ethereum-addresses-18aeca61919d.
+    - Twitter bot posting anomalous transactions: https://twitter.com/BlockchainETL.
     - ...
   
